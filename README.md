@@ -10,4 +10,4 @@ Research based on data from Polish Central Statistical Office. The goal of the r
 Linear regression, fixed effects and random effects model were compared on the basis of MAPE and RMSE metrics.
 
 # Findings
-The empirical results of the comparisons for the test year 2021 for which the forecast was made showed that the best model is random effects. model. It created fairly accurate forecast for most of the examined cities. However, for six cities (Bia³ystok, Czêstochowa, Lublin, £ódŸ, Poznañ, Szczecin) MAPE indicated a poor predictive power.
+The empirical results of the comparisons for the test year 2021 for which the forecast was made showed that the best model is random effects. model. It created fairly accurate forecast for most of the examined cities. However, for six cities (Bialystok, Czestochowa, Lublin, Lodz, Poznan, Szczecin) MAPE indicated a poor predictive power.
